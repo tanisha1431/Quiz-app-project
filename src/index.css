@@ -208,7 +208,7 @@ main {
   font-weight: 700;
   letter-spacing: var(--spacing);
   font-size: 1rem;
-  background: #ffb100;
+  background: #be2e82;
   color: var(--clr-black);
   transition: var(--transition);
   cursor: pointer;
